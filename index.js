@@ -38,9 +38,4 @@ function writeToFile(fileName, data) {
   );
 }
 
-const genLogo = {
-  text,
-  text_color,
-  shape,
-  shape_color,
-};
+function genLogo(text, text_color, shape, shape_color) {}
