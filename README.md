@@ -22,7 +22,7 @@ Download the module 10 folder, run npm i.
 
 Type node server.js and answer the questions.
 
-![alt text](assets/images/video.webm)
+https://drive.google.com/file/d/1nULNP1ImLZgoFhZDcYbK-o6pCUwYXXSR/view?usp=drive_link
 
 ## Credits
 
