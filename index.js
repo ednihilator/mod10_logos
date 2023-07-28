@@ -25,7 +25,7 @@ const questions = [
     name: "shape_color",
   },
 ];
-
+// **************I think my project works fine without the below code, however in the future if i'm wrong i'm leaving this code here************
 // class SVG {
 //   constructor(text, text_color, shape, shape_color) {
 //     this.text = text;
